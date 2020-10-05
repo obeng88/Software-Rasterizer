@@ -3,5 +3,5 @@
 implemented diffuse , specular , ambient light. two positional light sources.
 flat,gouroud and phong shader support
 camera , world , object and 2 light sources rotation/position control
-<img src="https://raw.githubusercontent.com/obeng88/Software-Rasterizer/IMG-20200226-WA0002.jpg />
+<img src="https://raw.githubusercontent.com/obeng88/Software-Rasterizer/IMG-20200226-WA0002.jpg" />
 
