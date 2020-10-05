@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\progs\demos\timer_callback\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{62C94A88-DB43-3808-B6DA-34C20BCF726F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

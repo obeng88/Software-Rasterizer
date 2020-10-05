@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_callbacks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_cursor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_display.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_ext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_font_data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_gamemode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_geometry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_gl2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_input_devices.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_overlay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_spaceball.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_state.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_stroke_mono_roman.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_stroke_roman.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_teapot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_videoresize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_font.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_cursor_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_display_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_ext_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_gamemode_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_init_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_input_devices_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_joystick_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_main_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_menu_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_spaceball_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_state_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_structure_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_window_mswin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\util\xparsegeometry_repl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\include\GL\freeglut.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\include\GL\freeglut_ucall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\include\GL\freeglut_ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\include\GL\freeglut_std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_gl2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_init.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_callback_macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\fg_teapot_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\mswin\fg_internal_mswin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\src\util\xparsegeometry_repl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\freeglutdll.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Data\Dropbox (BIU)\Teaching\Computer Graphics\HW Assignments\HW1\freeglut\freeglut.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F3A69CCD-C930-3E17-9DC9-A75AF49C50B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{62C94A88-DB43-3808-B6DA-34C20BCF726F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
