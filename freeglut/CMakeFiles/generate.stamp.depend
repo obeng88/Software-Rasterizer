@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/CMakeFiles/3.12.2/CMakeCCompiler.cmake
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/CMakeFiles/3.12.2/CMakeRCCompiler.cmake
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/CMakeFiles/3.12.2/CMakeSystem.cmake
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/CMakeLists.txt
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/FreeGLUTConfig.cmake.in
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/config.h.in
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/freeglut.pc.in
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/freeglut.rc.in
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/src/fg_version.h.in
+C:/Data/Dropbox (BIU)/Teaching/Computer Graphics/HW Assignments/HW1/freeglut/src/freeglutdll.def.in
+C:/Program Files/CMake/share/cmake-3.12/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/WriteBasicConfigVersionFile.cmake
