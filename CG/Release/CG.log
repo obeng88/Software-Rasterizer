@@ -1,0 +1,174 @@
+﻿  Main.cpp
+c:\gfx\hw3\hw3\cg\light.h(89): warning C4244: '=': conversion from 'double' to 'UINT8', possible loss of data
+  Scene.cpp
+c:\gfx\hw3\hw3\cg\light.h(89): warning C4244: '=': conversion from 'double' to 'UINT8', possible loss of data
+c:\gfx\hw3\hw3\cg\scene.cpp(31): warning C4244: '=': conversion from 'double' to 'UINT8', possible loss of data
+c:\gfx\hw3\hw3\cg\scene.cpp(93): warning C4101: 'pixelToDraw': unreferenced local variable
+c:\gfx\hw3\hw3\cg\scene.cpp(137): warning C4101: 'edge3': unreferenced local variable
+c:\gfx\hw3\hw3\cg\scene.cpp(137): warning C4101: 'edge1': unreferenced local variable
+c:\gfx\hw3\hw3\cg\scene.cpp(137): warning C4101: 'edge2': unreferenced local variable
+c:\gfx\hw3\hw3\cg\scene.cpp(253): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(253): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(254): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(254): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(255): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(255): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(256): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(256): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(288): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(288): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(289): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(289): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(290): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(290): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(291): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(291): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(344): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(344): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(374): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(366): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(367): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(368): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(369): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(370): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(371): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(372): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(373): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(438): warning C4018: '<': signed/unsigned mismatch
+c:\gfx\hw3\hw3\cg\scene.cpp(448): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(448): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(453): warning C4838: conversion from 'double' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(453): warning C4244: 'initializing': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\gfx\hw3\hw3\cg\scene.cpp(458): warning C4018: '<': signed/unsigned mismatch
+c:\gfx\hw3\hw3\cg\scene.cpp(469): warning C4018: '<': signed/unsigned mismatch
+c:\gfx\hw3\hw3\cg\scene.cpp(480): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  3 of 1067 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CG.vcxproj -> C:\gfx\HW3\HW3\Release\CG.exe
